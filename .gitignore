@@ -1,0 +1,7 @@
+venv/
+train_nn.c
+train_nn.cpython-35m-darwin.so
+params.npy
+*.jpg
+__pycache__/
+*.pyc
