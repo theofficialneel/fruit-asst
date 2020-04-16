@@ -39,7 +39,27 @@ Train the model to gains params
 ````
 Predict an image
 ````
-	python3 predict.py <image_file>
+	python3 predict.py
+	Enter the fruit-image file location: data/orange.jpg
+	You have consumed 1 Orange
+	Added new fruit to chart on 2020-04-16
+	{
+		"calories (kJ)": 354,
+		"carbs (g)": 21,
+		"fat (g)": 0.2,
+		"mineral (mg)": {
+			"calcium": 72,
+			"iron": 0.2,
+			"magnesium": 18
+		},
+		"name": "Orange",
+		"protein (g)": 1.7,
+		"vitamin": {
+			"A (IU)": 405,
+			"C (mg)": 95.8,
+			"E (mg)": 0.3
+		}
+	}
 ````
 
 ## Accuracy Results :

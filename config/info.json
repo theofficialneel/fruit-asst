@@ -1,0 +1,70 @@
+{
+    "0":{
+        "name": "Mango",
+        "calories (kJ)": 448,
+        "carbs (g)": 28.1,
+        "protein (g)": 0.8,
+        "fat (g)": 0.4,
+        "vitamin": {
+            "A (IU)": 1262,
+            "C (mg)": 45.7,
+            "E (mg)": 1.8
+        },
+        "mineral (mg)": {
+            "iron": 0.2,
+            "calcium": 16.5,
+            "magnesium": 14.8
+        }
+    },
+    "1":{
+        "name": "Green Apple",
+        "calories (kJ)": 272,
+        "carbs (g)": 17.3,
+        "protein (g)": 0.3,
+        "fat (g)": 0.2,
+        "vitamin": {
+            "A (IU)": 67.5,
+            "C (mg)": 5.7,
+            "E (mg)": 0.2
+        },
+        "mineral (mg)": {
+            "iron": 0.1,
+            "calcium": 7.5,
+            "magnesium": 6.3
+        }
+    },
+    "2":{
+        "name": "Orange",
+        "calories (kJ)": 354,
+        "carbs (g)": 21,
+        "protein (g)": 1.7,
+        "fat (g)": 0.2,
+        "vitamin": {
+            "A (IU)": 405,
+            "C (mg)": 95.8,
+            "E (mg)": 0.3
+        },
+        "mineral (mg)": {
+            "iron": 0.2,
+            "calcium": 72,
+            "magnesium": 18
+        }
+    },
+    "3":{
+        "name": "Pears",
+        "calories (kJ)": 359,
+        "carbs (g)": 22.9,
+        "protein (g)": 0.6,
+        "fat (g)": 0.2,
+        "vitamin": {
+            "A (IU)": 34,
+            "C (mg)": 6.2,
+            "E (mg)": 0.2
+        },
+        "mineral (mg)": {
+            "iron": 0.3,
+            "calcium": 13.3,
+            "magnesium": 10.4
+        }
+    }
+}
